@@ -2,7 +2,7 @@ import React from 'react';
 import bgImage from '../assets/BG-purple.png'
 import sideImage from '../assets/whyus.jpg';
 
-const WhyChooseUs = () => {
+const Whychooseus = () => {
   return (
     <section 
   className="py-16 px-6 bg-cover bg-center bg-no-repeat dark:bg-gray-900 dark:text-white"
@@ -49,4 +49,4 @@ const WhyChooseUs = () => {
   );
 };
 
-export default WhyChooseUs;
+export default Whychooseus;

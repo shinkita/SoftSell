@@ -4,7 +4,7 @@ import './index.css';
 import Header from './components/Header';
 import Banner from './components/Banner';
 import HowItWorks from './components/Howitworks';
-import WhyChooseUs from "./components/WhyChooseUs"; 
+import WhyChooseUs from "./components/Whychooseus"; a
 
 import Testimonials from './components/testimonial';
 import Contact from './components/Contact';
